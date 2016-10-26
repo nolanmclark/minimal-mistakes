@@ -2,3 +2,6 @@
 main:
   - title: "Home"
     url: http://nolanclark.co
+  - title: "Blog"
+    url: http://blog.nolanclark.co
+   
