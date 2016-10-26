@@ -1,6 +1,8 @@
 ---
 title:  "Hello World!"
 header:
+  image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   teaser: "http://nolanclark.co/images/teaser.png"
 categories: 
   - Update
@@ -8,18 +10,6 @@ tags:
   - update
   - intro
   - hello
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 ---
 
 Thanks for checking out my blog, many more interesting updates to come! Stay tuned and connect with me!
