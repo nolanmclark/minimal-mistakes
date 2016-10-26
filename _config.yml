@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Nolan Clark - Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Nolan Clark"
+description              : "Personal Blog"
+url                      : "blog.nolanclark.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : nolanmclark
 facebook:
-  username               :
+  username               : nolanmclark
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Nolan Clark"
+  avatar           : "http://nolanclark.co/images/self.jpg"
+  bio              : "Designer & Developer"
+  location         : "Omaha, NE"
+  email            : "nolan@nolanclark.co"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  "nolanmclark"
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "nolanmclark"
   lastfm           :
-  linkedin         :
+  linkedin         :  "nolanmclark"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "nolanmclark"
   vine             :
   weibo            :
   xing             :
