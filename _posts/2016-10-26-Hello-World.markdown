@@ -1,9 +1,6 @@
 ---
-layout: splash
 title:  "Hello World!"
 header:
-  image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   teaser: "http://nolanclark.co/images/teaser.png"
 tags:
   - update
