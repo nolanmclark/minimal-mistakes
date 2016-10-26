@@ -10,6 +10,9 @@ tags:
   - update
   - intro
   - hello
+defaults:
+  values:
+    layout: splash
 ---
 
 Thanks for checking out my blog, many more interesting updates to come! Stay tuned and connect with me!
