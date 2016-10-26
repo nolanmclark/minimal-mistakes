@@ -1,4 +1,5 @@
 ---
+layout: splash
 title:  "Hello World!"
 header:
   image: /assets/images/unsplash-image-1.jpg
@@ -8,9 +9,6 @@ tags:
   - update
   - intro
   - hello
-defaults:
-  values:
-    layout: splash
 ---
 
 Thanks for checking out my blog, many more interesting updates to come! Stay tuned and connect with me!
