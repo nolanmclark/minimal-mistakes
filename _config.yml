@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "http://nolanclark.co/images/logogrey.png"
+title                    : ""
 title_separator          : "-"
 name                     : "Nolan Clark"
 description              : "Web Blog"
