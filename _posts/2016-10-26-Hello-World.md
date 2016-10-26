@@ -1,4 +1,13 @@
 ---
+title:  "Hello World!"
+header:
+  teaser: "http://nolanclark.co/images/teaser.png"
+categories: 
+  - Update
+tags:
+  - update
+  - intro
+  - hello
 defaults:
   # _posts
   - scope:
