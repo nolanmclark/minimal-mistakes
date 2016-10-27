@@ -21,5 +21,7 @@ category:
   Keep it up Jekyll and GitHub!
 
 Twitter: [@nolanmclark](http://www.twitter.com/nolanmclark)
+
 Instagram: [nolanmclark](http://www.instagram.com/nolanmclark)
+
 LinkedIn: [nolanmclark](http://www.linkedin.com/nolanmclark)
