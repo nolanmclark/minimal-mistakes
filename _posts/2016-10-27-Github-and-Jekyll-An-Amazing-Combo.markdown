@@ -3,7 +3,6 @@ title:  "Github + Jekyll - Amazing Combo"
 header:
 header:
   image: http://nolanclark.co/images/unsplash-image-4.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   teaser: http://nolanclark.co/images/teaser.png
 tags:
   - development
