@@ -1,7 +1,8 @@
 ---
 title:  "Hello World!"
 header:
-  teaser: "http://nolanclark.co/images/teaser.png"
+  image: https://images.unsplash.com/photo-1421757295538-9c80958e75b0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=db57fba346c5cfa0a651bceaa4106cf4
+  teaser: http://nolanclark.co/images/teaser.png
 tags:
   - update
   - intro
