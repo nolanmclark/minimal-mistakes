@@ -1,9 +1,14 @@
 ---
-title: "Projects"
-layout: splash
-excerpt: "A Look into a few of my Projects"
-sitemap: false
-permalink: /Projects.html
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: false
 ---
 
-Take a peak!
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
