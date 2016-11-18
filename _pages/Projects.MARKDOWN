@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: false
+title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
 {% include base_path %}
