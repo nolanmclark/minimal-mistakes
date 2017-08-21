@@ -21,5 +21,7 @@ Thanks for reading.
 Stay connected with me:
 
 Twitter: [@nolanmclark](http://www.twitter.com/nolanmclark)
+
 Instagram: [nolanmclark](http://www.instagram.com/nolanmclark)
+
 LinkedIn: [nolanmclark](http://www.linkedin.com/nolanmclark)
