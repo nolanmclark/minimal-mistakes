@@ -2,7 +2,7 @@
 title:  "Github + Jekyll - Amazing Combo"
 header:
 header:
-  image: https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ea0b5a76b1adbec4ab01d5edda71d569
+  image: https://images.unsplash.com/photo-1487505983481-9aa2d9f9901a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ea0b5a76b1adbec4ab01d5edda71d569
   teaser: http://nolanclark.co/images/teaser.png
 tags:
   - development
