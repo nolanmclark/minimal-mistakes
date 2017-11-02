@@ -9,15 +9,15 @@ tags:
   - project
 ---
 
-#Development
+# Development
 
 Near the beginning of September, I decided I was going to endure one of the hardest development tasks I had ever attempted. I had an amazing mobile app idea, I knew Angular very well, but was tasked with putting both together into an amazing product. I stumbled across these newer tools called Ionic and Cordova, literally perfect for developing any sort of progressive web-app. Initially, I needed to come up with the general layout of the app, structure my data, look into what sort of database I was going to implement into the project, think about the overall design etc. After this initial preparation process, I discovered this was going to be quite the project totaling around 30 screens with design and logic for each. A lot of work! I began by looking into Google Firebase, as I've heard it's amazing for scalable, real-time data. This was a very important step, because without the discovery of firebase, I wouldn't have found all my necessary tools for a user system or backend storage. Firebase, what an amazing tool, I would highly recommend. With firebase I then created my user authentication system, and began designing and developing screens, focusing on User Experience and making the app as logicially sound as possible. 
 
-#The Idea
+# The Idea
 
 Let me tell you a little bit about my app. My app is called Pathways as the title suggests. The goal is to have users create a day of events for other users. So let's say you are going to Chicago this weekend on a spontaneous trip. You've been there a few times, and you don't want to do the typical touristy activities. You could hop on Pathways, and find a day of events structured around you and your favorite activities. When you find the ideal path, you're free to save it for the weekend, and come back when you are ready to start your adventure. Now this isn't just for traveling, I wanted to encompass several activities into the app. Maybe you are headed out for a date tonight, and can't really decide where you want to go. Users have the ability to create pre-planned dates for the users. If you aren't the best at planning, like myself, this is perfect for you. Easy date ideas at the palm of your hands, created by people all around you. 
 
-#The Deploy
+# The Deploy
 
 My goal is to have the app launched on the Google Play store, as well as the Apple Store, by the first of the year. Stay tuned for more updates, and get ready for Pathways on January 1st. 
 
