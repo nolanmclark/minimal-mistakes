@@ -1,5 +1,5 @@
 ---
-title:  "Pathways"
+title:  "Route"
 header:
   image: https://images.unsplash.com/photo-1432847712612-926caafaa802?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D
   teaser: http://nolanclark.co/images/teaser.png
@@ -17,11 +17,11 @@ Near the beginning of September, I decided I was going to endure one of the hard
 
 # The Idea
 
-Let me tell you a little bit about my app. My app is called Pathways as the title suggests. The goal is to have users create a day of events for other users. So let's say you are going to Chicago this weekend on a spontaneous trip. You've been there a few times, and you don't want to do the typical touristy activities. You could hop on Pathways, and find a day of events structured around you and your favorite activities. When you find the ideal path, you're free to save it for the weekend, and come back when you are ready to start your adventure. Now this isn't just for traveling, I wanted to encompass several activities into the app. Maybe you are headed out for a date tonight, and can't really decide where you want to go. Users have the ability to create pre-planned dates for the users. If you aren't the best at planning, like myself, this is perfect for you. Easy date ideas at the palm of your hands, created by people all around you. 
+Let me tell you a little bit about my app. My app is called Route as the title suggests. The goal is to have users create a day of events for other users. So let's say you are going to Chicago this weekend on a spontaneous trip. You've been there a few times, and you don't want to do the typical touristy activities. You could hop on Route, and find a day of events structured around you and your favorite activities. When you find the ideal path, you're free to save it for the weekend, and come back when you are ready to start your adventure. Now this isn't just for traveling, I wanted to encompass several activities into the app. Maybe you are headed out for a date tonight, and can't really decide where you want to go. Users have the ability to create pre-planned dates for the users. If you aren't the best at planning, like myself, this is perfect for you. Easy date ideas at the palm of your hands, created by people all around you. 
 
 # The Deploy
 
-My goal is to have the app launched on the Google Play store, as well as the Apple Store, by the first of the year. Stay tuned for more updates, and get ready for Pathways on January 1st. 
+My goal is to have the app launched on the Google Play store, as well as the Apple Store, by the first of the year. Stay tuned for more updates, and get ready for Route on January 1st. 
 
 Thanks
 
